@@ -1,0 +1,10 @@
+C:\Users\edune\OneDrive\Área de Trabalho\CalculadoraProjeto\CalculadoraProjeto\obj\Debug\CalculadoraProjeto.csproj.AssemblyReference.cache
+C:\Users\edune\OneDrive\Área de Trabalho\CalculadoraProjeto\CalculadoraProjeto\obj\Debug\CalculadoraProjeto.Form1.resources
+C:\Users\edune\OneDrive\Área de Trabalho\CalculadoraProjeto\CalculadoraProjeto\obj\Debug\CalculadoraProjeto.Properties.Resources.resources
+C:\Users\edune\OneDrive\Área de Trabalho\CalculadoraProjeto\CalculadoraProjeto\obj\Debug\CalculadoraProjeto.csproj.GenerateResource.cache
+C:\Users\edune\OneDrive\Área de Trabalho\CalculadoraProjeto\CalculadoraProjeto\obj\Debug\CalculadoraProjeto.csproj.CoreCompileInputs.cache
+C:\Users\edune\OneDrive\Área de Trabalho\CalculadoraProjeto\CalculadoraProjeto\bin\Debug\CalculadoraProjeto.exe.config
+C:\Users\edune\OneDrive\Área de Trabalho\CalculadoraProjeto\CalculadoraProjeto\bin\Debug\CalculadoraProjeto.exe
+C:\Users\edune\OneDrive\Área de Trabalho\CalculadoraProjeto\CalculadoraProjeto\bin\Debug\CalculadoraProjeto.pdb
+C:\Users\edune\OneDrive\Área de Trabalho\CalculadoraProjeto\CalculadoraProjeto\obj\Debug\CalculadoraProjeto.exe
+C:\Users\edune\OneDrive\Área de Trabalho\CalculadoraProjeto\CalculadoraProjeto\obj\Debug\CalculadoraProjeto.pdb
